@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f4e8fd2-ca76-41f2-85e0-cca85c4651a2": {
+      "ProjectGuid": "5f4e8fd2-ca76-41f2-85e0-cca85c4651a2",
+      "DisplayName": "ReaOrderApp",
+      "ColorIndex": 0
+    },
+    "82345eb7-dcb2-486a-b5df-8f45ec0ce94f": {
+      "ProjectGuid": "82345eb7-dcb2-486a-b5df-8f45ec0ce94f",
+      "DisplayName": "OrderService",
+      "ColorIndex": 1
+    },
+    "5c2f8780-2a1d-4ea3-bf29-d32467023e6a": {
+      "ProjectGuid": "5c2f8780-2a1d-4ea3-bf29-d32467023e6a",
+      "DisplayName": "CustomerService",
+      "ColorIndex": 2
+    },
+    "9df78f76-9cbe-499e-bf59-c4780711a924": {
+      "ProjectGuid": "9df78f76-9cbe-499e-bf59-c4780711a924",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 3
+    },
+    "df45096c-05f6-46f7-b1cb-743eb80de12c": {
+      "ProjectGuid": "df45096c-05f6-46f7-b1cb-743eb80de12c",
+      "DisplayName": "ReaWeb",
+      "ColorIndex": 4
+    },
+    "1f7ab82d-97d7-4703-b4b2-6d4a3717fdad": {
+      "ProjectGuid": "1f7ab82d-97d7-4703-b4b2-6d4a3717fdad",
+      "DisplayName": "rea-order-web",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
